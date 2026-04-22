@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Official Bitwarden Claude Plugin Marketplace",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "pluginRoot": "./plugins"
   },
   "plugins": [
@@ -65,10 +65,10 @@
       "description": "GitHub Actions workflow compliance, action security auditing, and org-wide CI/CD remediation."
     },
     {
-      "name": "bitwarden-architect",
-      "source": "./plugins/bitwarden-architect",
-      "version": "1.0.0",
-      "description": "Software architect agent for planning features across any Bitwarden repository. Discovers platform context dynamically via CLAUDE.md and repo-local planning skills."
+      "name": "bitwarden-tech-lead",
+      "source": "./plugins/bitwarden-tech-lead",
+      "version": "2.0.0",
+      "description": "Tech lead agent for a Bitwarden product team. Architects solutions holistically with the architecture group, operates inside the Software Initiative Funnel alongside shepherds, receives work transitions, and surfaces team patterns to the Technical Strategy Ideas backlog."
     }
   ]
 }

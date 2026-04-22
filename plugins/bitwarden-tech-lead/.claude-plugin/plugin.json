@@ -1,0 +1,20 @@
+{
+  "name": "bitwarden-tech-lead",
+  "version": "2.0.0",
+  "description": "Tech lead agent for a Bitwarden product team. Architects solutions holistically with the architecture group, operates inside the Software Initiative Funnel alongside shepherds, receives work transitions, and surfaces team patterns to the Technical Strategy Ideas backlog.",
+  "author": {
+    "name": "Bitwarden",
+    "url": "https://github.com/bitwarden"
+  },
+  "homepage": "https://github.com/bitwarden/ai-plugins/tree/main/plugins/bitwarden-tech-lead",
+  "repository": "https://github.com/bitwarden/ai-plugins",
+  "keywords": [
+    "tech-lead",
+    "architecture",
+    "initiative-funnel",
+    "work-transition",
+    "technical-strategy",
+    "epic-breakdown"
+  ],
+  "agents": "./agents/AGENT.md"
+}
